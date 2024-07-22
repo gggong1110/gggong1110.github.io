@@ -20,11 +20,18 @@ You need to know segment tree and dynamic segment tree(a type of segtree tree th
 
 Since this problem requires us to find the distance between two points on the tree, it should be obvious that we have the formula: distance = d[u]+d[v]-2*d[findlca(u,v)] where u and v are the two points on the tree. Note that in this specific problem, we are required to find the lowest common ancestor in O(1) time. This requires the use of building a sparse table on the dfn order(which is the in order in my code) in O(nlogn) time. More details are provided at the bottom of this editorial.
 
-For this problem, we could observe that we should build the shape of the tree first instead of dynamically maintaining the shape of the tree. From this, we could view every operation as a process of activating a node. 
+Lemma 1
+For the sets of nodes S1 and S2, if the diameter is x1,y1 and x2,y2 then the diameter of S1 and S2 is chosen between x1,y1,x2,y2.
 
-Considering the fact that there may be a lot of different colors that exists in the tree.
+For this problem, we should build the shape of the tree first instead of dynamically maintaining the shape of the tree. From this, we could view every operation as a process of activating a node. Consider maintaining two segment tree, the first one(calling it as SGT1) maintains the longest diameter aand the pair of nodes for each color. The l and r for this segment tree represents the the minimum and maximum index of the two chosen nodes.
 
+We notice that we only need to care about the longest diameter of each color and we could put it into another segment tree(calling it as SGT2) which maintains two information, the 
 
+Considering the fact that there may be a lot of different colors that exists in the tree. The first segment tree should be a segment tree that opens a point when necessary(the main purpose is that the segment tree would definetely exceed the memoryy limit otherwise).
+
+## P.S. 
+
+such a bad problem for the memory limit, and don't use ```#define int long long``` for this problem!
 
 ## My implementation
 
