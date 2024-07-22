@@ -18,7 +18,7 @@ You need to know segment tree and dynamic segment tree(a type of segtree tree th
 
 ## The idea
 
-Since this problem requires us to find the distance between two points on the tree, it should be obvious that we have the $distance=d[u]+d[v]-2*d[findlca(u,v)]$ where the $u$ and $v$ are the two points on the tree.
+Since this problem requires us to find the distance between two points on the tree, it should be obvious that we have the $$distance = d[u]+d[v]-2*d[findlca(u,v)]$$ where the $$u$$ and $$v$$ are the two points on the tree.
 
 For this problem, we could observe that we should build the shape of the tree first instead of dynamically maintaining the shape of the tree.
 
