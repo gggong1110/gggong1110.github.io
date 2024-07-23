@@ -224,8 +224,6 @@ inline int ins_dynamic_open_point_sgt1(int u,int l,int r,int id){
 	return u;
 }
 inline int del_dynamic_open_point_sgt1(int u,int l,int r,int id){
-	if(u==0)
-		u=++nP;
 	if(l==r){
 		tr[u].longest.furthest=make_pair(0,0);
 //		tr[u].longest.dst=-1;
