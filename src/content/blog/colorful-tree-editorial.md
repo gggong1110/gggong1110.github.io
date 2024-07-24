@@ -407,24 +407,27 @@ signed main(){
 
 Providing a sample here that could get a lot of people's code WA. (including my second optimizated code)
 
-input
+**input:**
+```markdown
 1
 13 1
 0 1 1 1
-0 2 1 1 
+0 2 1 1
 0 3 1 1
 0 1 1 1
 0 5 1 1
 0 6 1 1
 0 1 2 1
-0 1 3 1 
+0 1 3 1
 0 9 3 1
 0 9 3 1
 0 1 4 1
 0 12 4 1
 0 13 4 1
+```
 
-output:
+**output:**
+```markdown
 0
 0
 0
@@ -438,3 +441,4 @@ output:
 5
 5
 6
+```
