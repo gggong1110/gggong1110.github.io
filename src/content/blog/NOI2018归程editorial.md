@@ -9,7 +9,7 @@ tags:
   - binary jumping
   - dijkstra
 description:
-  Implementation to ds5easy
+  short editorial to NOI2018归程
 ---
 
 # Solution
