@@ -16,20 +16,20 @@ Noticing that the bound for n is 200, it is pretty obvious that this problem sho
 
 ### The DP state
 
-In this problem, $dp[l][r]$ denotes number of ways to choose everyone from $l$ to $r$.
+In this problem, $dp[l][r]$ denotes the number of ways to choose everyone from $l$ to $r$.
 
-We also record $ok[l][r]$ as whether the $l-th$ person can be a pair with the $r-th$ person.
+We record $ok[l][r]$ as whether the $l-th$ person can be a pair with the $r-th$ person.
 
 ### The transitions
 
-Obviously, if we have chosen all the middle pairs, namely $l+1$ to $r-1$, and $ok[l][r]=1$.Then we could only choose $l,r$ next, this gives a contribution of $dp[l+1][r-1]$ to $dp[l][r]$.
+Obviously, if we have chosen all the middle pairs, everyone from $l+1$ to $r-1$, and $ok[l][r]=1$.Then we could only choose $l,r$ next, this gives a contribution of $dp[l+1][r-1]$ to $dp[l][r]$.
 
-Considering the 
+There is another situation, where we only need to merge one of the endpoints and one of the points in the middle, assuming that the point is called $x$. This means that everyone from $l$ to $x-1$ has a pair already and everyone from $x+1$ to $r-1$ has a pair already. We should also guaranteed that $x-l$ is an even number and $r-x-1$ is an even number. 
 
 ## The implementation
+```cpp
 // spencer wang is very orz
 // everyone should orz nyctivoe
-```cpp
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;
