@@ -24,8 +24,6 @@ Strict time limit and loj array size limit (2GB being useless)
 ## Implementation
 
 ```cpp
-// don't be like Dennis
-// think before you speak
 // spencer wang is very orz
 // everyone should orz nyctivoe
 // sleep is superior ! Stop doing your problem and go relax and sleep now
