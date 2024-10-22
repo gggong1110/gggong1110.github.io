@@ -5,7 +5,6 @@ title: 0100-insertion-editorial
 draft: false
 tags:
   - dynamic-programming
-  - 
 description:
   Detailed editorial to the problem 0100 insesrtion.
 ---
@@ -54,6 +53,11 @@ If the number of the current position is 0 or the position is a ? then
 
 dp[0][j][k][0] could contribute to dp[1][j-3][min(k,j-3)][1] when j-3>=k-1
 
+# Optimization
+
+Since the pure dp may tle, a possible optimization(as shown in the code below) is only considering the contributions of the states that aren't zero.
+
+One can easily maintain this with a queue.
 
 # My implementation
 
