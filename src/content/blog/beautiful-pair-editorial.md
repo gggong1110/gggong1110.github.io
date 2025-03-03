@@ -1,6 +1,6 @@
 ---
 author: gg_gong
-pubDatetime: 2025-3-03
+pubDatetime: 2025-03-03
 title: beautiful-pair-editorial
 draft: false
 tags:
