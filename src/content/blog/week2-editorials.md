@@ -1,6 +1,6 @@
 ---
 author: gg_gong
-pubDatetime: 2025-9-18
+pubDatetime: 2025-09-18
 title: week2-editorials
 draft: false
 tags:
