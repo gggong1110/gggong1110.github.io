@@ -6,6 +6,25 @@
       "name": "Development server",
       "request": "launch",
       "type": "node-terminal"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/jeffz/AppData/Local/Temp/3d6b3eb3-6b08-45ff-afe2-6608b022cfb3_problem_4208.zip.problem_4208.zip",
+      "program": "c:/Users/jeffz/AppData/Local/Temp/3d6b3eb3-6b08-45ff-afe2-6608b022cfb3_problem_4208.zip.problem_4208.zip/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
     }
   ]
 }
