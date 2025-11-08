@@ -1,7 +1,7 @@
 ---
 author: gg_gong
 pubDatetime: 2025-10-30
-title: Math-problems(Will update regularly)
+title: math
 draft: false
 tags:
     - math

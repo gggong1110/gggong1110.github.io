@@ -1,7 +1,7 @@
 ---
 author: gg_gong
 pubDatetime: 2024-10-22
-title: 0100-insertion-editorial
+title: arc188c-editorial
 draft: true
 tags:
   - disjoint-set-union
