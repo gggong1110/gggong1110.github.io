@@ -98,6 +98,73 @@ The process for checking the satisfaction of the second and third conditions cou
 
 To reduce a log factor in the code, the process of binary searching is just walking down on the persistent segtree, so maintain the number bigger than current range and sum of number that is smaller than the current range and search on the current node of the persistent segtree. Time complexity is $O((n+q)log(1e9))$.
 
+## Parts of the Code
+
+```cpp
+
+inline bool OK(ll u,int L,int R){
+//	int pos=upper_bound(lsh+1,lsh+cnt+1,u)-lsh;
+//	pos--;
+//	int pos=u;
+//	pair<ll,int> tmp=query_pst(curr0,1,cnt,pos,0);
+//	pair<ll,int> tmp2=query_pst(curl0,1,cnt,pos,0);
+	pair<ll,int> tmp=make_pair(tr[0][tr[0][curr0].son[0]].tot,tr[0][tr[0][curr0].son[1]].num);
+	pair<ll,int> tmp2=make_pair(tr[0][tr[0][curl0].son[0]].tot,tr[0][tr[0][curl0].son[1]].num);
+//	cout<<tmp.first<<" "<<tmp.second<<" "<<tmp2.first<<" "<<tmp2.second<<endl;
+	ll sum1=tmp.first-tmp2.first+1ll*(tmp.second)*u-1ll*(tmp2.second)*u+numm1*u+toad1;
+	pair<ll,int> tmpp=make_pair(tr[1][tr[1][curr1].son[0]].tot,tr[1][tr[1][curr1].son[1]].num);
+	pair<ll,int> tmpp2=make_pair(tr[1][tr[1][curl1].son[0]].tot,tr[1][tr[1][curl1].son[1]].num);
+//	pair<ll,int> tmpp=query_pst(curr1,1,cnt,pos,1);
+//	pair<ll,int> tmpp2=query_pst(curl1,1,cnt,pos,1);
+	ll sum2=tmpp.first-tmpp2.first+1ll*(tmpp.second)*u-1ll*(tmpp2.second)*u+numm2*u+toad2;
+//	cout<<u<<":";
+//	cout<<pos<<" ";
+//	cout<<sum1<<" "<<sum2<<endl;
+	ll mnn=u*1ll*(1ll*(R-L+1)/2);
+	bool tpp=(min(sum1,sum2)>=mnn)&&(u<=mx);
+	curr0=tr[0][curr0].son[tpp];
+	curl0=tr[0][curl0].son[tpp];
+	curr1=tr[1][curr1].son[tpp];
+	curl1=tr[1][curl1].son[tpp];
+	if(tpp){
+		toad1+=tmp.first-tmp2.first;
+		toad2+=tmpp.first-tmpp2.first;
+		return 1;
+	}
+	numm1+=tmp.second-tmp2.second;
+	numm2+=tmpp.second-tmpp2.second;
+	return 0;
+}
+int max_prize(int L,int R){
+	L++; R++;
+	mx=query_sgt(1,L,R);
+	ll l=0,r=cnt;
+	ll ans=0;
+//	cout<<l<<" "<<r<<endl;
+	curr0=rt[0][R];
+	curl0=rt[0][L-1];
+	curr1=rt[1][R];
+	curl1=rt[1][L-1];
+	toad1=0; toad2=0;
+	numm1=0; numm2=0;
+	while(l<r){
+		ll mid=(l+r+1)>>1;
+		if(OK(mid,L,R)){
+			l=mid;
+			ans=mid;
+		}
+		else
+			r=mid-1;
+//		cout<<mid<<" "<<toad1<<" "<<toad2<<" "<<curr0<<" "<<curl0<<endl;
+	}
+//	if(OK(ans+1,L,R))
+//		ans++;
+//	if(!OK(ans,L,R))
+//		ans--;
+	return ans;
+}
+```
+
 # Telepathy
 
 Maybe Later
