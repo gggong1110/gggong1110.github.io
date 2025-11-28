@@ -30,7 +30,7 @@ With this the problem is simply checking whether val is zero at the start.
 
 Too trivial
 
-# Election Promises
+# Election Promises (CF1149E)
 
 ## Solution
 
@@ -51,45 +51,6 @@ Then judge whether the initial state of val is 0, if yes then LOSE or else consi
 ## Code
 
 ```cpp
-#include<bits/stdc++.h>
-//#define int long long
-using namespace std;
-typedef long long ll;
-typedef unsigned long long ull;
-typedef long double ld;
-inline int read(){
-	int num=0,sign=1;
-	char ch=getchar();
-	while(ch<'0'||ch>'9'){
-		if(ch=='-')
-			sign=-sign;
-		ch=getchar();
-	}
-	while(ch>='0'&&ch<='9'){
-		num=num*10+(int)ch-48;
-		ch=getchar();
-	}
-	return num*sign;
-}
-inline void write(int num){
-	if(num<0){
-		putchar('-');
-		num=-num;
-	}
-	if(num>9)
-		write(num/10);
-	putchar(num%10+'0');
-}
-int n,m;
-int a[200009];
-int in[200009];
-int xx[200009];
-int mex[200009];
-bool ok[200009];
-queue<int> q;
-vector<int> vec;
-vector<int> reach[200009];
-vector<int> reachback[200009];
 int main(){
 	n=read(); m=read();
 	for(int i=1;i<=n;i++)
@@ -160,3 +121,63 @@ int main(){
 	return 0;
 }
 ```
+
+# A Game on Strings (CF1037G)
+
+## Solution
+
+Precompute the sg function value for each of the interval between two same numbers. This is easy and you can simply just recurse when doing it and use precomputed values of shorter intervals and recording the values for the suffix of the prefix and the prefix of the suffix.
+
+Doing a prefix xor now allows for faster query of the sg value of a whole precomputed interval and we only need to consider the prefix of suffix and suffix of prefix for each letter and do a memorized recursion.
+
+## Code
+
+```cpp
+inline int presolve(int l,int r){
+	int mask=0;
+	for(int i=1;i<=26;i++){
+		int fst=suf[i][l];
+		int lst=pre[i][r];
+		if(fst>lst)
+			continue;
+		int sgg=0;
+		for(int j=pos[fst];j<pos[lst];j++)
+			sgg^=sg[i][j];
+		if(l!=fst){
+			if(!ok[1][i][l]){
+				ok[1][i][l]=1;
+				val[1][i][l]=presolve(l,fst-1);
+			}
+			sgg^=val[1][i][l];
+		}
+		if(r!=lst){
+			if(!ok[0][i][r]){
+				ok[0][i][r]=1;
+				val[0][i][r]=presolve(lst+1,r);
+			}
+			sgg^=val[0][i][r];
+		}
+		if(sgg<26)
+			mask|=(1<<sgg);
+	}
+	for(int i=0;i<=26;i++)
+		if(!(mask&(1<<i)))
+			return i;
+}
+```
+
+# ABC Ultimatum (AGC055D)
+
+## Solution
+
+Consider a dp[i][a][b][m1][m2][m3] representing in the first i digits, there exists a As, b Bs, and m1,m2,m3 represent max(c-b),max(b-a),max(a-c) respectively.
+
+We claim that for every prefix, m1 is the maximum number of CAB that the string can have, and for m2 and m3, max number of BCA and ABC respectively. This is due to the only inversion of positions in one of the forms compared to the other two forms with certain two letters.
+
+Now we have to claim that this is a sufficient transformation of the problem and no more or less is needed to make the problem equivalent. Obviously it is necessary as we already shown and to prove it is enough every triplet is a correct cycle around the order and thus correspond to each position.
+
+Note that m1+m2+m3<=n due to the limited number of 3 letter subsequences to form. 
+
+## Code
+
+Too trivial
