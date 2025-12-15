@@ -94,4 +94,4 @@ Les Etats-Unis ont une grande diversité religieuse de croyances sous le princip
 # Conclusion
 
 
-Le Gabon, c’est un pays très similaire et différent à l’autre pays en même temps qu'un pays qui peut embrasser la nouvelle innovation et technologique, et maintenir les connexions avec les spiritueux et traditionnels à la fois. Ce qui me surprend le plus c’est les religions et cultures uniques dans un environnement profondément influencé par les voisins et les colonisateurs.
+Le Gabon, c’est un pays très similaire et différent à l’autre pays en même temps qu'un pays qui peut embrasser la nouvelle innovation et technologie, et maintenir les connexions avec les spiritueux et traditionnels à la fois. Ce qui me surprend le plus c’est les religions et cultures uniques dans un environnement profondément influencé par les voisins et les colonisateurs.
