@@ -9,9 +9,9 @@ description:
   Une comparison culturelle entre trois pays.
 ---
 
-## Table of Contents
+# Table of Contents
 
-## Introduction
+# Introduction
 
 Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une communauté très diversifiée et comprise. Les musiques des instruments traditionnels des différentes ethnies avec les multiplicités de religions et cultures traditionnelles constituent le Gabon, un pays unique. Dans ce blog, nous explorerons les différents aspects de la vie Gabonais et la richesse culturelle du Gabon et nous allons les comparer avec deux différents pays.
 
@@ -19,15 +19,15 @@ Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une
 
 Un aspect important dans la culture du Gabon c'est les masques traditionnels. Les masques ne sont pas seulement pour décorations et fins esthétiques, il y a des rôles spirituels, sociaux, et politiques les masques jouent dans les ethnies comme les Fangs ou les Mpongwé. Dans les cérémonies traditionnelles, les masques servent un connecteur entre le monde de réalité et de la société avec les mondes des ancêtres et pour cette raison, ils ont un rôle très important pour la communauté.
 
-(https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg)
+https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg
 
 En Chine, il y a des masques plus de mille ans d’histoires, mais c’est notamment pour l'opéra. Comme au Gabon, ils représentent des connexions entre les personnes mortes et des valeurs importantes qu'ils reflètent quand ils sont en temps de guerre.
 
-(https://chinese-temple.com/cdn/shop/products/Traditional-Chinese-Opera-Masks_960x.jpg?v=1634474753)
+https://chinese-temple.com/cdn/shop/products/Traditional-Chinese-Opera-Masks_960x.jpg?v=1634474753
 
 Les masques américains sont principalement pour les tribus indigènes. Comme au Gabon, c’est une façon ou les spirit des ancêtres peuvent s' engager dans les cérémonies modernes. En plus, les masques a des représentations d'autres que les ancêtres, c’est les totems animaux et les êtres mythiques.
 
-(https://mnch.uoregon.edu/sites/default/files/nwmasks_2-1054.jpg)
+https://mnch.uoregon.edu/sites/default/files/nwmasks_2-1054.jpg
 
 # Education
 
@@ -80,7 +80,7 @@ Similaire au Gabon, le syncrétisme a un rôle très significatif dans la socié
 
 Les Etats-Unis ont une grande diversité religieuse de croyances sous le principe de liberté de culte. La majorité de population est aussi chrétienne, comme au Gabon, mais aux Etats-Unis les choses concernant religion est plus privée et les affaires religieuses sont moins connectées à la d’autre partie de la vie quotidienne. Il y a encore un influence de religion dans la politique.
 
-## Conclusion
+# Conclusion
 
 
 Le Gabon, c’est un pays très similaire et différent à l’autre pays en même temps qu'un pays qui peut embrasser la nouvelle innovation et technologique, et maintenir les connexions avec les spiritueux et traditionnels à la fois. Ce qui me surprend le plus c’est les religions et cultures uniques dans un environnement profondément influencé par les voisins et les colonisateurs.
