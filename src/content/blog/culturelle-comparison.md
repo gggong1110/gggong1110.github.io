@@ -9,6 +9,8 @@ description:
   Une comparison culturelle entre trois pays.
 ---
 
+## Table of Contents
+
 ## Introduction
 
 Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une communauté très diversifiée et comprise. Les musiques des instruments traditionnels des différentes ethnies avec les multiplicités de religions et cultures traditionnelles constituent le Gabon, un pays unique. Dans ce blog, nous explorerons les différents aspects de la vie Gabonais et la richesse culturelle du Gabon et nous allons les comparer avec deux différents pays.
