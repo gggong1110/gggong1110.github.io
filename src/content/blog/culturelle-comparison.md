@@ -13,17 +13,21 @@ description:
 
 Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une communauté très diversifiée et comprise. Les musiques des instruments traditionnels des différentes ethnies avec les multiplicités de religions et cultures traditionnelles constituent le Gabon, un pays unique. Dans ce blog, nous explorerons les différents aspects de la vie Gabonais et la richesse culturelle du Gabon et nous allons les comparer avec deux différents pays.
 
-## Masques
+# Masques
 
 Un aspect important dans la culture du Gabon c'est les masques traditionnels. Les masques ne sont pas seulement pour décorations et fins esthétiques, il y a des rôles spirituels, sociaux, et politiques les masques jouent dans les ethnies comme les Fangs ou les Mpongwé. Dans les cérémonies traditionnelles, les masques servent un connecteur entre le monde de réalité et de la société avec les mondes des ancêtres et pour cette raison, ils ont un rôle très important pour la communauté.
 
-[mask1](https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg)
+(https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg)
 
 En Chine, il y a des masques plus de mille ans d’histoires, mais c’est notamment pour l'opéra. Comme au Gabon, ils représentent des connexions entre les personnes mortes et des valeurs importantes qu'ils reflètent quand ils sont en temps de guerre.
 
+(https://chinese-temple.com/cdn/shop/products/Traditional-Chinese-Opera-Masks_960x.jpg?v=1634474753)
+
 Les masques américains sont principalement pour les tribus indigènes. Comme au Gabon, c’est une façon ou les spirit des ancêtres peuvent s' engager dans les cérémonies modernes. En plus, les masques a des représentations d'autres que les ancêtres, c’est les totems animaux et les êtres mythiques.
 
-## Education:
+(https://mnch.uoregon.edu/sites/default/files/nwmasks_2-1054.jpg)
+
+# Education
 
 
 Le système d’éducation gabonais, influencé par le modèle français, accentue l’importance du Baccalauréat (le BAC) en fin de ses études secondaires. Cela symbolise une accentuation sur seulement un examen et un système méritocratique de connaissances sur les différents sujets. Les étudiants doivent connaître les connaissances pour certains sujet et ils peuvent choisir quelque ils veulent spécialisée dans pour l'université et l’examen peut ajuster base sur le choix.
@@ -33,7 +37,7 @@ Cette approche est très similaire avec le système chinois, où le “Gaokao高
 En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais les examens standard ne constituent qu’un parti pour entrer à l'université. Nombre d’autres éléments sont aussi ou peut-être plus importants dans le processus de l'admission, par exemple les lettres de recommandation, les essais personnels, et les activités périscolaires qui reflètent les différents aspects de sa vie.
 
 
-## Famille:
+# Famille
 
 
 Monoparentalité est très populaire au Gabon, mais il y a aussi un réseau très fermé entre la communauté et la famille élargie de plusieurs générations. En plus, il y a une dépendance au père de la famille ou le famille habite dans la village de le père et pour cette raison, il joue un rôle très important dans la famille. C’est aussi très commun pour un couple gabonais d' avoir plusieurs enfants dans la famille.
@@ -42,7 +46,7 @@ En Chine, il existe un système familial patriarcal bien développé, et il y a 
 
 Aux Etats-Unis, le type de structure famille le plus courant est la famille nucléaire avec deux parents et des enfants. Il y a moins de liens entre les générations plus âgées et la dernière génération. Aujourd’hui, parce que l'indépendance qui existe dans la société Américaine, il y a plusieurs d’autre type de structure famille qui existent aux Etats-Unis.
 
-## Travaille et Économie: 
+# Travaille et Économie
 
 
 L' environnement et les ressources naturelles sont très essentiels pour l'économie, par exemple le pétrole et l'exploitation minière. Le salaire minimum garantit les droits des travailleurs dans tous les secteurs. La majorité de la population a des travaux dans les petits commerces, l’artisanat, et agriculture principalement pour subsistance. Il y a aussi plusieurs opportunités pour les personnes dans le secteur des ressources environnementales.
@@ -51,7 +55,7 @@ La manufacture et l'exportation sont très cruciaux pour la Chine, et c’est la
 
 La plupart de la population américaine servent dans les domaines de service, soins de santé, et gouvernement. Il existe “le rêve américain” et le principale de “self-made man” ou un personne travaille par soi-même et finalement réussit. Les entrepreneurs sont très communs aux États-Unis pour cette raison et l'économie est influencée par la.
 
-## Cuisine:
+# Cuisine
 
 
 La cuisine du Gabon se compose principalement des produits de la mer, l’agriculture locale, et la viande de brousse. Elle accorde la priorité à l'environnement, aux traditions, et à la société gabonaise. Elle a développé des cuisines spécifiques pour le Gabon et on ne trouve pas des similaires dans n’importe quel plat d’un autre pays. Il y a aussi des influences françaises par les cuisines du Gabon parce que la colonisation.
@@ -65,7 +69,7 @@ Section Musique:
 
 Les instruments traditionnelle par exemple  
 
-## Religion:
+# Religion
 
 
 Au Gabon, la majorité de la population est chrétienne avec une minorité musulmane et des religions traditionnelles et uniques. Un exemple le plus connu est Bwiti, une croyance originaire au Gabon. Influencé par les voisins, l’histoire, la majorité de la population adopte la religion d’autre région. Les autres développent leur propre croyances, et des idées syncrétiques jouent un rôle important. Par exemple, Bwiti intégrait l’animisme, le christianisme et le culte des ancêtres ensemble pour devenir une religion syncrétique.
