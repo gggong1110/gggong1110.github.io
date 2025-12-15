@@ -34,7 +34,11 @@ Les masques américains sont principalement pour les tribus indigènes. Comme au
 
 Le système d’éducation gabonais, influencé par le modèle français, accentue l’importance du Baccalauréat (le BAC) en fin de ses études secondaires. Cela symbolise une accentuation sur seulement un examen et un système méritocratique de connaissances sur les différents sujets. Les étudiants doivent connaître les connaissances pour certains sujet et ils peuvent choisir quelque ils veulent spécialisée dans pour l'université et l’examen peut ajuster base sur le choix.
 
+![system-gabon](https://www.gabonreview.com/wp-content/uploads/2023/06/bac.jpg)
+
 Cette approche est très similaire avec le système chinois, où le “Gaokao高考” détermine son destin pour l'université. Mais, pour le “Gaokao” il y a moins de chance pour les personnes qui veulent prendre seulement un sujet et c’est plus avantageux pour les étudiants qui sont bien dans tous les sujets.
+
+![gaokao](https://cassette.sphdigital.com.sg/image/straitstimes/8e2c058268305da8ecd3a5f230e51eced259b105d9df4c723ab22e12fc46e3bc?w=900)
 
 En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais les examens standard ne constituent qu’un parti pour entrer à l'université. Nombre d’autres éléments sont aussi ou peut-être plus importants dans le processus de l'admission, par exemple les lettres de recommandation, les essais personnels, et les activités périscolaires qui reflètent les différents aspects de sa vie.
 
@@ -44,9 +48,15 @@ En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais les
 
 Monoparentalité est très populaire au Gabon, mais il y a aussi un réseau très fermé entre la communauté et la famille élargie de plusieurs générations. En plus, il y a une dépendance au père de la famille ou le famille habite dans la village de le père et pour cette raison, il joue un rôle très important dans la famille. C’est aussi très commun pour un couple gabonais d' avoir plusieurs enfants dans la famille.
 
+![family-gabon](https://prod.cdn-medias.theafricareport.com/cdn-cgi/image/q=auto,f=auto,metadata=none,fit=cover/https://prod.cdn-medias.theafricareport.com/medias/2025/05/20/jad20250516-ass-gabon-politique-liberation-bongo-coulisses.jpg)
+
 En Chine, il existe un système familial patriarcal bien développé, et il y a plusieurs générations dans une famille comme le Gabon. Le philosophie de piété pour les aînés joue aussi un rôle très crucial dans la société en Chine. Les grands parents, par exemple, sont aussi très pertinents dans sa vie et affectent constamment sa croissance.
 
+![family-china](https://images.stockcake.com/public/1/9/8/198352e2-8ee9-4076-aaae-c2b255bdca00_large/family-dinner-celebrations-stockcake.jpg)
+
 Aux Etats-Unis, le type de structure famille le plus courant est la famille nucléaire avec deux parents et des enfants. Il y a moins de liens entre les générations plus âgées et la dernière génération. Aujourd’hui, parce que l'indépendance qui existe dans la société Américaine, il y a plusieurs d’autre type de structure famille qui existent aux Etats-Unis.
+
+![family-US](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*pY49rPwsjgGIv6m0zCMjZw.jpeg)
 
 # Travaille et Économie
 
@@ -62,14 +72,15 @@ La plupart de la population américaine servent dans les domaines de service, so
 
 La cuisine du Gabon se compose principalement des produits de la mer, l’agriculture locale, et la viande de brousse. Elle accorde la priorité à l'environnement, aux traditions, et à la société gabonaise. Elle a développé des cuisines spécifiques pour le Gabon et on ne trouve pas des similaires dans n’importe quel plat d’un autre pays. Il y a aussi des influences françaises par les cuisines du Gabon parce que la colonisation.
 
+![food-gabon](https://www.theflavorvortex.com/wp-content/uploads/2023/05/PoissonsEnSauceAuxArachides-1024x981.jpg)
+
 En Chine, comme au Gabon, les cuisines sont traditionnelles et il y a différents styles alimentaires pour les différentes régions de Chine, certaines cuisines ont des origines plus anciennes. Les personnes dans les différentes régions préfèrent différents styles de nourriture et il y a quatre majeur type alimentaire qui existe en Chine.
+
+![food-china](https://www.ourchinastory.com/images/cover/whys-that/2023/11/square/Ourchinastory-eight-cuisine_x1.jpg)
 
 Cependant, aux États-Unis la cuisine est surtout composée de burger, de BBQ, et de pizza. Les cuisines américaines se caractérisent par la douceur et la nourriture américaine se concentre sur la commodité et s'est développée plus récemment. Il n’y a pas beaucoup d'histoire aux États-Unis mais les Amérindiens ont des cuisines uniques.
 
-Section Musique:
-
-
-Les instruments traditionnelle par exemple  
+![food-america](https://www.hunts.com/sites/g/files/qyyrlu211/files/styles/convert_webp/public/uploadedImages/img_6934_16918.jpg.webp?itok=7gaPNI5C) 
 
 # Religion
 
