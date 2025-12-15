@@ -63,9 +63,15 @@ Aux Etats-Unis, le type de structure famille le plus courant est la famille nucl
 
 L' environnement et les ressources naturelles sont très essentiels pour l'économie, par exemple le pétrole et l'exploitation minière. Le salaire minimum garantit les droits des travailleurs dans tous les secteurs. La majorité de la population a des travaux dans les petits commerces, l’artisanat, et agriculture principalement pour subsistance. Il y a aussi plusieurs opportunités pour les personnes dans le secteur des ressources environnementales.
 
+![job-gabon](https://static01.nyt.com/images/2022/11/04/climate/00cli-gabon1/merlin_214423947_4e035b3f-91c3-4dad-aa9d-abf07fc3d7a4-superJumbo.jpg?quality=75&auto=webp)
+
 La manufacture et l'exportation sont très cruciaux pour la Chine, et c’est la voie principale pour la Chine d’obtenir les ressources et l'économie. L'efficacité est un aspect très important pour le travail et pour la vie quotidienne de chinois, et c’est la raison qu’il y a production très élevée en Chine.
 
+![job-chinese](https://www.brookings.edu/wp-content/uploads/2017/11/rtxzsar.jpg)
+
 La plupart de la population américaine servent dans les domaines de service, soins de santé, et gouvernement. Il existe “le rêve américain” et le principale de “self-made man” ou un personne travaille par soi-même et finalement réussit. Les entrepreneurs sont très communs aux États-Unis pour cette raison et l'économie est influencée par la.
+
+![job-american](https://raywilliams.ca/wp-content/uploads/2013/05/the_myth_of_america.jpg)
 
 # Cuisine
 
