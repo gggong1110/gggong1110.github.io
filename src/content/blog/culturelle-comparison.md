@@ -19,15 +19,15 @@ Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une
 
 Un aspect important dans la culture du Gabon c'est les masques traditionnels. Les masques ne sont pas seulement pour décorations et fins esthétiques, il y a des rôles spirituels, sociaux, et politiques les masques jouent dans les ethnies comme les Fangs ou les Mpongwé. Dans les cérémonies traditionnelles, les masques servent un connecteur entre le monde de réalité et de la société avec les mondes des ancêtres et pour cette raison, ils ont un rôle très important pour la communauté.
 
-https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg
+'https://www.a-private-collection.com/wp-content/uploads/2022/09/%E2%80%9ENgil-Society-Mask-Masque-Fang-copyright-www.a-private-collection.com-TV.07.22-207.jpg'
 
 En Chine, il y a des masques plus de mille ans d’histoires, mais c’est notamment pour l'opéra. Comme au Gabon, ils représentent des connexions entre les personnes mortes et des valeurs importantes qu'ils reflètent quand ils sont en temps de guerre.
 
-https://chinese-temple.com/cdn/shop/products/Traditional-Chinese-Opera-Masks_960x.jpg?v=1634474753
+'https://chinese-temple.com/cdn/shop/products/Traditional-Chinese-Opera-Masks_960x.jpg?v=1634474753'
 
 Les masques américains sont principalement pour les tribus indigènes. Comme au Gabon, c’est une façon ou les spirit des ancêtres peuvent s' engager dans les cérémonies modernes. En plus, les masques a des représentations d'autres que les ancêtres, c’est les totems animaux et les êtres mythiques.
 
-https://mnch.uoregon.edu/sites/default/files/nwmasks_2-1054.jpg
+'https://mnch.uoregon.edu/sites/default/files/nwmasks_2-1054.jpg'
 
 # Education
 
