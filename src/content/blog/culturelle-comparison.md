@@ -42,6 +42,7 @@ Cette approche est très similaire avec le système chinois, où le “Gaokao高
 
 En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais les examens standard ne constituent qu’un parti pour entrer à l'université. Nombre d’autres éléments sont aussi ou peut-être plus importants dans le processus de l'admission, par exemple les lettres de recommandation, les essais personnels, et les activités périscolaires qui reflètent les différents aspects de sa vie.
 
+![sat](https://nypost.com/wp-content/uploads/sites/2/2022/08/students-studying.jpg?resize=1536,1024&quality=75&strip=all)
 
 # Famille
 
@@ -93,9 +94,15 @@ Cependant, aux États-Unis la cuisine est surtout composée de burger, de BBQ, e
 
 Au Gabon, la majorité de la population est chrétienne avec une minorité musulmane et des religions traditionnelles et uniques. Un exemple le plus connu est Bwiti, une croyance originaire au Gabon. Influencé par les voisins, l’histoire, la majorité de la population adopte la religion d’autre région. Les autres développent leur propre croyances, et des idées syncrétiques jouent un rôle important. Par exemple, Bwiti intégrait l’animisme, le christianisme et le culte des ancêtres ensemble pour devenir une religion syncrétique.
 
+![religion-gabon](https://kumakonda.com/wp-content/uploads/2025/07/Bwiti-Gabon-22.jpg.webp)
+
 Similaire au Gabon, le syncrétisme a un rôle très significatif dans la société chinois. Ils cohabitent avec les différentes philosophies et la religion bouddhisme, qui constitue la plus grande partie de la religion de Chine. Les philosophies par exemple Confucianisme et taoïsme affectent aussi les choix de personnes dans la vie quotidienne et la structure de la société. 
 
+![religion-chinese](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Buddha%27s_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg/500px-Buddha%27s_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg)
+
 Les Etats-Unis ont une grande diversité religieuse de croyances sous le principe de liberté de culte. La majorité de population est aussi chrétienne, comme au Gabon, mais aux Etats-Unis les choses concernant religion est plus privée et les affaires religieuses sont moins connectées à la d’autre partie de la vie quotidienne. Il y a encore un influence de religion dans la politique.
+
+![religion-american](https://orbcfamily.org/wp-content/uploads/2024/10/what-does-the-cross-represent-in-the-christian-faith-oak-ridge-baptist-church-spring-tx.jpg)
 
 # Conclusion
 
