@@ -15,7 +15,10 @@ description:
 
 ![flag-gabon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/2560px-Flag_of_Gabon.svg.png)
 
-Située à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une communauté très diversifiée et comprise. Les musiques des instruments traditionnels des différentes ethnies avec les multiplicités de religions et cultures traditionnelles constituent le Gabon, un pays unique. Dans ce blog, nous explorerons les différents aspects de la vie Gabonais et la richesse culturelle du Gabon et nous allons les comparer avec deux différents pays.
+Situé à la croisée de l'océan Atlantique et de l'Equateur, le Gabon est une communauté très diversifiée et comprise. Les masques traditionnels, le système d'éducation, la structure de la famille, la spécialisation dans le travail, les cuisines extraordinaires, et la multiplicité de la religion constituent le Gabon, un pays unique.
+
+Dans ce blog, nous explorerons les différents aspects de la vie gabonaise et la richesse culturelle du Gabon. Nous allons identifier les singularités par les mettrons en comparaison avec la Chine, avec des milliers d'années d’histoire, et les Etats-Unis, une culture développée récemment.
+
 
 ![map-gabon](https://www.worldatlas.com/r/w960-q80/upload/39/62/d3/ga-02.jpg)
 
