@@ -55,7 +55,7 @@ En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais ces
 # Famille
 
 
-Monoparentalité est très populaire au Gabon, mais il y a aussi un réseau très fermé entre la communauté et la famille élargie de plusieurs générations. En plus, il y a une dépendance au père de la famille ou le famille habite dans la village de le père et pour cette raison, il joue un rôle très important dans la famille. C’est aussi très commun pour un couple gabonais d' avoir plusieurs enfants dans la famille.
+Monoparentalité est très populaire au Gabon, mais il y a aussi un réseau très fermé entre la communauté et la famille élargie de plusieurs générations. En plus, il y a une dépendance au père de la famille ou le famille habite dans la village de le père et la société c'est patriarcal. C’est aussi très commun pour un couple gabonais d' avoir plusieurs enfants dans la famille.
 
 ![family-gabon](https://prod.cdn-medias.theafricareport.com/cdn-cgi/image/q=auto,f=auto,metadata=none,fit=cover/https://prod.cdn-medias.theafricareport.com/medias/2025/05/20/jad20250516-ass-gabon-politique-liberation-bongo-coulisses.jpg)
 
