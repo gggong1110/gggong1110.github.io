@@ -39,15 +39,16 @@ Les masques américains sont principalement pour les tribus indigènes. Comme au
 # Education
 
 
-Le système d’éducation gabonais, influencé par le modèle français, accentue l’importance du Baccalauréat (le BAC) en fin de ses études secondaires. Cela symbolise une accentuation sur seulement un examen et un système méritocratique de connaissances sur les différents sujets. Les étudiants doivent connaître les connaissances pour certains sujet et ils peuvent choisir quelque ils veulent spécialisée dans pour l'université et l’examen peut ajuster base sur le choix.
+Le système d’éducation gabonaise, influencé par le modèle français, accentue l’importance du Baccalauréat (le BAC) en fin de ses études secondaires. Une ventilation précise pour les étudiants avant le BAC c’est 6 ans à école primaire, 4 ans au collège, 3 ans au lycée. Cela symbolise une accentuation sur seulement un examen et un système méritocratique de connaissances sur les différents sujets. Les étudiants doivent connaître les connaissances pour certains sujet et ils peuvent choisir quelque ils veulent spécialisée dans pour l'université et l’examen peut ajuster base sur le choix.
 
 ![system-gabon](https://www.gabonreview.com/wp-content/uploads/2023/06/bac.jpg)
 
-Cette approche est très similaire avec le système chinois, où le “Gaokao高考” détermine son destin pour l'université. Mais, pour le “Gaokao” il y a moins de chance pour les personnes qui veulent prendre seulement un sujet et c’est plus avantageux pour les étudiants qui sont bien dans tous les sujets.
+Cette approche est très similaire avec le système chinois, où le “Gaokao高考” détermine son destin pour l'université. Mais, pour le “Gaokao” il y a moins de flexibilité pour les étudiants
+qui veulent prendre seulement un sujet et c’est plus avantageux pour les étudiants qui sont bien dans tous les sujets. 
 
 ![gaokao](https://cassette.sphdigital.com.sg/image/straitstimes/8e2c058268305da8ecd3a5f230e51eced259b105d9df4c723ab22e12fc46e3bc?w=900)
 
-En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais les examens standard ne constituent qu’un parti pour entrer à l'université. Nombre d’autres éléments sont aussi ou peut-être plus importants dans le processus de l'admission, par exemple les lettres de recommandation, les essais personnels, et les activités périscolaires qui reflètent les différents aspects de sa vie.
+En revanche, aux Etats-unis, les étudiants prennent le SAT ou l’ACT, mais ces examens standard ne constituent qu’un parti pour entrer à l'université. Il y a de nombreux d’autres éléments, parfois plus importants, dans le processus de l'admission, par exemple les lettres de recommandation, les essais personnels, et les activités périscolaires qui reflètent les différents aspects de sa vie. Tous les éléments sont évalués pour une décision finale.
 
 ![sat](https://nypost.com/wp-content/uploads/sites/2/2022/08/students-studying.jpg?resize=1536,1024&quality=75&strip=all)
 
