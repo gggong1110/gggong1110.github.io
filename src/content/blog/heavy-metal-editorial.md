@@ -1,10 +1,14 @@
 ---
 author: gg_gong
-pubDatetime: 2026-01-25
-title: heavy-metal-editorial
+pubDatetime: 2026-1-25
+title: Heavy metal editorial
 draft: false
+tags:
+  - meet-in-the-middle
+  - observation
+  - dijkstra
 description:
-  Detailed editorial to the problem heavy metal from PA 2025. A very elegant problem.
+  Editorial to heavy metal from PA 2025. A very elegant problem.
 ---
 
 [Problem Link](https://qoj.ac/contest/1948/problem/10249)
