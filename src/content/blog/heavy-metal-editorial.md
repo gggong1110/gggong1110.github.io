@@ -1,6 +1,6 @@
 ---
 author: gg_gong
-pubDatetime: 2026-1-25
+pubDatetime: 2026-01-25
 title: Heavy metal editorial
 draft: false
 tags:
