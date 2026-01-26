@@ -1,7 +1,7 @@
 ---
 author: gg_gong
 pubDatetime: 2026-01-25
-title: heavy_metal(PA2025)-editorial
+title: heavy-metal-editorial
 draft: false
 tags:
   - meet-in-the-middle
