@@ -3,9 +3,8 @@ import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
-// import sitemap from "@astrojs/sitemap";
+// import sitemap from "@astrojs/sitemap"; // ← 注释掉导入
 import { SITE } from "./src/config";
-
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,7 +14,7 @@ export default defineConfig({
       applyBaseStyles: false,
     }),
     react(),
-    sitemap(),
+    // sitemap(), // ← 注释掉这个调用
   ],
   markdown: {
     remarkPlugins: [
