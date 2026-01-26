@@ -5,7 +5,6 @@ title: arc188c-editorial
 draft: true
 tags:
   - disjoint-set-union
-  - 
 description:
   Detailed editorial to the problem 0100 insesrtion.
 ---
