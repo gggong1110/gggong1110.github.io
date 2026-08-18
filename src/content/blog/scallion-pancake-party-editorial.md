@@ -21,7 +21,7 @@ Here's a preliminary solution which won't work just yet but has a close idea to 
 
 3. To recover the sequence p, simply find the cakes of a certain number of appeareances that haven't been eaten.
 
-Well why is this approach wrong, most obviously what if the first number found of a certain number of appeareances is the id of the cake that you can't eat.
+Why is this approach wrong, well most obviously what if the first number found of a certain number of appeareances is the id of the cake that you can't eat.
 
 In order to solve this problem, we will introduce a strategy of regretting. Specifically, you mark all of the later number of occurences and since the later people will see that the later types of cakes that the (room id+1) occurence has been marked later, they will have to increase their supposed room id by 1.
 
