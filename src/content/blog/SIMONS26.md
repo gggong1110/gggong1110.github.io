@@ -73,6 +73,10 @@ Had a short huddle with my professor in the morning since he's out for the week,
 
 Excursion day again, but to New York with an hour train ride one way via the LIRR!!
 
+## Day 15
+
+Momentous day - First day of getting hospital starbucks and starting the streak!
+
 ## Day 17
 
 A lab meeting day finally again where I talked about the thoughts I have on my project and formulated my methodology and some experiments.
