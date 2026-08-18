@@ -91,6 +91,8 @@ A lab meeting day where I have almost nothing prepared :( .
 
 ## Day 26
 
+Day of my initial results!! But it being negative tumor sizes :( , gotta fix it for later then.
+
 Yet another momentous day - day of the start of the sketchy chinese game that I introduced.
 
 ## Day 27 (7/25)
@@ -101,7 +103,7 @@ Early morning actually, we started watching obsession! Supposedly it was a horro
 
 What a memorable day! Ethan texted me and told me they WILL BE out of lab at 7:00. Indeed this time got delayed to 7:30 later and even further delayed to 8:00 and indefinitely postponed. They actually came out at around 8:45 and we went to dinner at the noodle house at the train station.
 
-
+Along with that I got some more results, the tumor size at least isn't negative but constantly "bouncing" up and down very very fast, I know that I have to fix the upstream predictor that I used from TE-CDE.
 
 ## Day 31
 
