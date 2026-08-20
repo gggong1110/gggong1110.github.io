@@ -115,7 +115,7 @@ Room escape and groceries and dinner!
 
 ## Day 22
 
-The day that Ashwin 
+The day that Ashwin got a bite from the tick and that he got mad at me due to Srihith.
 
 ## Day 24
 
