@@ -11,7 +11,9 @@ description:
   A blog and record for my unique experience at SIMONS SRP 2026.
 ---
 
-This blog is not done yet :(, but feel free to read a little for now and I will try to finish as soon as possible.
+Updated day 4 to day 13 for now!
+
+This blog is not done yet :(, but feel free to read a little for now and I will try to finish as soon as possible. 
 
 This is a sort of late SIMONS SRP 2026 blog for me and all of things are pulled from memory one week after the program have finished so there might be cases where I slightly misremember things.
 
@@ -51,11 +53,15 @@ This is the day of my lab meetings, wednesday afternoon at 1pm, I basically read
 
 ## Day 4/Day 5
 
-Ahhhhh the classical never forgetting day of Ashwin snitching!! A
+Ahhhhh the classical never forgetting day of Ashwin snitching!! The classical event that also happened this day is me checking the downstairs common room/kitchen and leaving back to sleep, also knowing something bad is happening due to all my suite except me being there and ashwin laughing in an evil way. Somehow this made the impression that I am antisocial and afraid of girls... but at least that got changed and it is not true.
 
 ## Day 6
 
-Port Jefferson!!
+The day of the first excursion to Port Jefferson which is also an unforgettable experience. It was all good during the afternoon when we decided to go there as a squad of 11 people, we hanged around got dinner and went to the park and beach for some frisbee, stone skipping, and firework watching. The twist came during the time we were trying to get back to our dorm. There was suddenly a thunderstorm and we had to go into one of the closest shops that sells ice cream in order to avoid the huge pouring rain and wind that was along with it. Unfortunately the bus did not come, although being public transport but it decided to either stop of skip us. We thus had to wait for a later bus but some of the girls decided to order an uber to return and did not want to take the bus back.
+
+After that, there was 7 people left waiting for the next bus, which also did not appear, and we had to stay in the rain for around 20 minutes for the next uber to come. Unfortunately, the uber only has 6 spots on there this time so Jacob decided to go back another group of students. At least we all got back safely although being wet and soaked in the rain.
+
+Some P.S. : Also I somehow had stuffy ears starting the day or so after and had to go to the ER room a few days later to get it checked and dropped antibiotics for a week straight to let it recover and it is probably due to staying too long in the rain. So next time don't trust the public transports anymore and uber fast if there is a big thunderstorm warning coming or you see rain forecasted on the weather app!
 
 ## More random stuff in week 1
 
@@ -65,13 +71,29 @@ Didn't really get to know anyone except my suitemates.
 
 The week which my labmate came to lab the most! Later on it's only for the day of the lab meeting and the days of the SIMONS events where everyone has to come. 
 
+## Day 8
+
+The day that I decided to go to the ER room during the afternoon. Thanks so much to Ronit who decided to come as well!!
+
+It was a hard tour to find the ER room but by asking around 5 people on the way, we made it, down the escalator arounds the hospital starbucks, very important place which is better than the library starbucks and dunkin, and through a door that requires asking. Even when I got into the ER room, we had to turn through a lot of corridors and cross through a lot of rooms to reach a waiting room that is supposedly for the children's hospital(i think). The doctor was generally very nice but I don't think he figured out what happened, just gave me and antibiotic and we left. But it eventually proved that the antibiotic was useful I guess?
+
 ## Day 9
 
-Had a short huddle with my professor in the morning since he's out for the week, we discussed about the actual topic of the project, I presented my thoughts and he also came up with something that he thought of that would be good for the 
+Had a short huddle with my professor in the morning since he's out for the week, we discussed about the actual topic of the project, I presented my thoughts and he also came up with something that he thought of that would be good for being the project of SIMONS, still on the line of the final topic but a little easier and less innovative. I decided that afternoon that I was going with the harder topic and the one that I thought we are going to do, and it did turn out to be very fun and very open-ended with a lot of flexibility.
 
 ## Day 13
 
 Excursion day again, but to New York with an hour train ride one way via the LIRR!!
+
+We all got up early and went to the train station on the stony brook campus, got to New York at around noon and grabbed lunch there at Chinatown. Worth mentioning is that somehow the heytea and paris baguette(which turned out to be all a waste of money) there that made me, Varyan, and Ashwin separate is totally not worth it! 
+
+Then we separated for a while at the question mark tea and met up all again at the brooklyn bridge where Ashwin decided to leave alone and explore more of the bridge. After getting off the bridge we separated yet again, I went with Varyan, Omar, Ethan, and Srihith. We visited a lot of places and walked a tonnnnn lotttt leading to around 20k steps for the day. We walked from Times Square to Central Park, and there we decided we should get dinner. My steakhouse plan got rejected for many times and they decided to get Indian food, which I didn't feel like for the day.
+
+I decided to leave and go to the MET museum where some of the other people (Ashwin, Audrey, and Jacob) are. Ethan after 3 minutes, although agreeing to go to the Indian restaurant decided to call me and also come to the MET, which is like 1km away from us, saying that he feels awkward going to an Indian restaurant with 4 indians and only him being the only chinese.
+
+The MET was sorta fun and there was part that I liked. One of the things I remember is Audrey complaining about Ashwin and Jacob (well also Ethan) not able to be in a certain very very very easy and comfortable position and I somehow was the only other person there able to do it. We met up with Andy at Times Square and got some curry for dinner at the Korean town where they told us about how they had to take care of the kid Ashwin always running off alone and spending all of them 3 extra dollars for reentering the metro.
+
+To end the day, Ethan's phone showed us walking around ~37k steps and we somehow don't feel tired.
 
 ## Day 15
 
@@ -88,6 +110,12 @@ Momentous day - the day of the start of the card game nights!!!
 ## Day 21
 
 Excursion day yet again!!
+
+Room escape and groceries and dinner!
+
+## Day 22
+
+The day that Ashwin 
 
 ## Day 24
 
@@ -112,6 +140,10 @@ Along with that I got some more results, the tumor size at least isn't negative 
 ## Day 31
 
 Another lab meeting day! Another time of bad results :( . 
+
+## Day 32
+
+Ashwin sleeptalk day! I had to parent him like a father for around 1.5h before I could go to sleep myself. I think I deserve a 6 if there was AP parenting exam! But the play he was imagining progressed sort of fast during second time he sleeptalked (he supposedly actually woke up once in the middle).
 
 ## Day 34 (8/1)
 
