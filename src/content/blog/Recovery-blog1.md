@@ -1,6 +1,6 @@
 ---
 author: gg_gong
-pubDatetime: 2026-9-25
+pubDatetime: 2026-09-25
 title: Recovery blog 1
 draft: false
 tags:
