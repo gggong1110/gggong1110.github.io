@@ -34,3 +34,13 @@ Hint: Consider what is the must win state
 Solution: If the largest two numbers are not adjacent then the person making the move is guaranteed to win. Set the largest two numbers x and y.
 If x=y-1 and the person making could win by making a move from y to z then the person making the move can directly move to z, otherwise moving y to x+1 could win.
 The other occasion is where the players alternatively move the largest number down by 1 every time, and the answer is simply the parity of remaining spaces not being occupied by any of the numbers existing.
+
+https://codeforces.com/problemset/problem/387/D
+
+Problem: Find the minimum number of operations (adding or removing an edge) such that the center(any point in the graph) has edges connected to all other nodes in both directions and a self loop. For the other points, all of them have an edge out from it and an edge pointing towards it(not containing the center).
+
+Difficulty: 4/10 (mostly from knowing the algorithm)
+
+Hint: Fix the center point
+
+Solution: After switching the center, it is easy to calculate the number of operations required for satisfying the constraints for the center edges. For the other edges, break each point into two, one satisfying the point in and the other satisfying the pointing out. Then the problem is easily transformed into a bipartite matching problem and the answer would be center + 2n - 2 - number of matched points.
