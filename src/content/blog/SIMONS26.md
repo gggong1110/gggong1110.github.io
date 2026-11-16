@@ -11,7 +11,7 @@ description:
   A blog and record for my unique experience at SIMONS SRP 2026.
 ---
 
-Updated day 4 to day 13 for now!
+Updated day 15 to day 24 for now(11.16 very late update and even more forgotten...)! The later updates will be postponed indefinitely.
 
 This blog is not done yet :(, but feel free to read a little for now and I will try to finish as soon as possible. 
 
@@ -97,29 +97,39 @@ To end the day, Ethan's phone showed us walking around ~37k steps and we somehow
 
 ## Day 15
 
-Momentous day - First day of getting hospital starbucks and starting the streak!
+Momentous day - First day of getting hospital starbucks and starting the streak! Actually, reflecting back about this right now, this is both worth it and at the same time quite tiring, (at the time also a way to force me to wake up early, which is around 8:30 and leave to the hospital in order to get the drink to arrive at lab "on time" actually earlier and do more on the project). Also great chance to have known more people (technically a little awkward but it's fine since actually knowing more and stuff was sorta after simons switching into messaging and texting(? applies to some :) )).
 
 ## Day 17
 
-A lab meeting day finally again where I talked about the thoughts I have on my project and formulated my methodology and some experiments.
+A lab meeting day finally again where I talked about the thoughts I have on my project and formulated my methodology and some experiments. Uhhhh, so the method looking back right now is sort of stupid, coming from nowhere and sort of standard-ish, no innovations or anything like that, at least it got better now and some of the ideas are transferred to the later project form that I have now.
 
 ## Day 19
 
-Momentous day - the day of the start of the card game nights!!! 
+Momentous day - the day of the start of the card game nights!!! Ok so the start is I believe that Jacob wanted to play werewolves (the chinese version of the mafia game) and then a bunch of just started to play together sitting on the couches on the upstairs common room above the stairs. I was mostly the narrator for most of the days(some other people also got to be narrator and the only ones I remember are Audrey(a lot of times, less than me though) and Vybhav(once if I have not mistaken)). 
+
+Narrator is a fun job, seeing all of the dumbs that people make and them being slow, the error in the speeches and the targets of ashwin/others. When being involved in the actual game, I only remember being 3 positions, werewolf, where I normally always jump prophet and go against the real prophet(which I successfully accuse as the wolf) but people hate me and see me as a threat so I'm dead immediately, the ashwin comment of "he's too good so vote him out early...". Second position is a normal villager, not able to do anything but happenly rarely, and third, the witch, for like 2-3 times and in a row. The most memorable part about that is audrey narrating and ashwin killed first night, but I shaked my head so violently deciding not to save him and she laughed so hard, thus exposing me...
 
 ## Day 21
 
 Excursion day yet again!!
 
-Room escape and groceries and dinner!
+Lunch and Escape room and groceries and dinner! First I should mention the 2 bums, namely ethan and jacob, both not coming, ethan due to going back to princeton and watched odyssey without us (what a terrible guy), and jacob saying that it's too expensive, like hello you study at basis and flew all the ways to ny from china. But anyways, it was a very fun day, first of all lunch and the "traumatizing" conversation which we are going to omit here. But we went to a japanese restaurant, poor Ashwin didn't get to escape from that :(, they had fine food but ashwin not being able to open the ramune, the drink with a marble/glass ball, cause he cant push the ball down was pretty amusing, have a video if anyone wants to see that.
+
+Then, the escape room, we definitely did NOT fail in that, we succeeded in escaping but just a little longer than the usual supposed alloted timing. Yes, it was fun but also very hard, some of the clues were sorta nonsense(?) or just too obscure to figure out. The most remembered from me was like the ashwin accidentally dropping a ball into a tube correctly, we were freaking out when he lost our prop. Generally it was fun but audrey commented not wanting to do anymore ever, which is wrong cause we are going to play those in the Shanghai trip(much easier though)!
+
+Grocery shopping, I did buy a lot, most of them are also not consumed, the most important item is the box of chips (24 packets), aside which I still did not finish right now, and caused the event of Ashwin crashing out that I allowed people into the room grabbing the snacks(what an extremely sensitive child...).
+
+Dinner, battle cat maxxing as well as got a steak, ashwin did talk less and argentina did lose, so sort of bad for bd and thus Ethan and Audrey but they got merch and shirts so yea can't be that bad.
 
 ## Day 22
 
-The day that Ashwin got a bite from the tick and that he got mad at me due to Srihith.
+The day that Ashwin got a bite from the tick and that he got mad at me due to Srihith. First of all, I do not know why he would go the unconventional way away from the road that people have paved and into the tall grasses and all of the forest. Did not have time to accompany him to the ER room just for that since the code that I was running very very abnormally, not good and very sad. Also funny that he would do that and the ER room is required to deal with such a matter.
+
+The matter with Srihith won't be discussed in length right here, but basically exaggeration of my speech and thus false information being transferred, fault on him ig.
 
 ## Day 24
 
-A lab meeting day where I have almost nothing prepared :( . 
+A lab meeting day where I have almost nothing prepared :( . Ok a day I dont even remember right now...
 
 ## Day 26
 
